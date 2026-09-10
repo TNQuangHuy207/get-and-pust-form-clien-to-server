@@ -68,8 +68,8 @@ Chọn phiên bản phù hợp với nhu cầu của bạn bên dưới:
 
 | Loại phiên bản | Mô tả | Liên kết tải |
 | :--- | :--- | :--- |
-| ⚡ **File Chạy Trực Tiếp (Portable)** | Tải về click đúp chạy ngay, không cần cài đặt. | [⬇️ Tải tauri-file-server.exe](PASTE_LINK_FILE_PORTABLE_HERE) |
-| 📦 **File Cài Đặt (Installer)** | Tự động tạo Shortcut ngoài Desktop & Start Menu. | [⬇️ Tải tauri-file-server-setup.exe](PASTE_LINK_FILE_SETUP_HERE) |
+| ⚡ **File Chạy Trực Tiếp (Portable)** | Tải về click đúp chạy ngay, không cần cài đặt. | [⬇️ Tải tauri-file-server.exe](sha256:9f6119d6a247b17e2d6e78bbd3e7dc091768cde28e6cdadbff7ea0e2b8576082) |
+| 📦 **File Cài Đặt (Installer)** | Tự động tạo Shortcut ngoài Desktop & Start Menu. | [⬇️ Tải tauri-file-server-setup.exe](sha256:316aced26babaaaf367a19bbcf2d4cd49e3e59677744c4ccdc95f8abd56c0549) |
 
 ---
 
